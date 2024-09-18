@@ -1,0 +1,29 @@
+{
+  "name": "com.xacce.lomka",
+  "rootNamespace": "Lomka",
+  "references": [
+    "Unity.Entities",
+    "Unity.Entities.Hybrid",
+    "Unity.Collections",
+    "Unity.Mathematics",
+    "Unity.Physics.Custom",
+    "Unity.Physics",
+    "Unity.Physics.Hybrid",
+    "Unity.InputSystem",
+    "Unity.Burst",
+    "Unity.Transforms",
+    "com.xacce.dotsinput",
+    "com.xacce.core.runtime",
+    "com.xacce.core.hybrid",
+    "com.trove.polymorphicstructs"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
